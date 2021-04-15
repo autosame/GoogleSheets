@@ -1,0 +1,1 @@
+=QUERY(Data!A:E, "SELECT A,E,D,D-E WHERE A <> '' ORDER BY E DESC, D DESC")
